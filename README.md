@@ -21,3 +21,7 @@ This is my team
 - Team Confluence
 - Something else
 
+
+
+Our team's project involves taking an scanning electron microscope's (SEM) scanning and detector voltage waveforms and feeding them to a FPGA-based SoC hardware platform, 
+which converts those signals into a digital format to be sent via USB over to a host PC. 
